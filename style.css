@@ -1,0 +1,23 @@
+body{
+	background-image: url("sha.png")
+}
+
+img{
+max-width;100%
+}
+
+h1{
+	font-size:1.6em;
+	border:inset 10px #ff0000;
+}
+
+h2{
+	border-style:solid;
+	border-width:4px 16px 4px 16px;
+	border-color:#8888cc;
+	background:lightyellow
+}
+li:first-letter{
+	font-weight:bold;
+	color:blue;
+}
